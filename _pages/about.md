@@ -29,9 +29,9 @@ Education
 
 Professional Experience
 ======
-* <span style="color:maroon">2025 -- Present</span>: Research Scientist, Singapore Management University -- Machine Learning & Security
+* <span style="color:maroon">2025 -- Present</span>: Research Scientist, Singapore Management University -- Machine Learning, AI, LLM & Security & Security
 
-* <span style="color:maroon">08/2021 -- 2025</span>: Research Assistant, University of Central Florida -- Machine Learning & Security
+* <span style="color:maroon">08/2021 -- 2025</span>: Research Assistant, University of Central Florida -- Machine Learning, AI, LLM & Security & Security
 
 * <span style="color:maroon">12/2023 -- 12/2024</span>: Research Officer, A*STAR Research Entities (I2R) -- Machine Learning & Security
 
