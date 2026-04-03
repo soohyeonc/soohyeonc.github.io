@@ -7,16 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-Service of Reviewer
+Reviewing
 ---
-1. External reviewer for IEEE Transactions on Dependable and Secure Computing (2025)
-2. External reviewer for IEEE Transactions on Dependable and Secure Computing (2024)
-3. External reviewer for IEEE Transactions on Dependable and Secure Computing (2023)
-4. External reviewer for IEEE Transactions on Mobile Computing (2022)
-5. External reviewer for Computer Networks (2022)
+1. External Reviewer, IEEE Transactions on Dependable and Secure Computing (TDSC), 2023 -- 2025
+2. External Reviewer, IEEE Transactions on Mobile Computing (TMC), 2022
+3. External Reviewer, Computer Networks, 2022
 
 
 Conference and Workshop Organization
 ---
-1. Conference web chair for IEEE Conference on Communications and Network Security (2023)
-
+1. Web Chair, IEEE Conference on Communications and Network Security (CNS), 2023
