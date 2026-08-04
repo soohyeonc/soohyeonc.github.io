@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
----
+You can download my current two-page research résumé here: **[Soohyeon_Choi_Research_Resume.pdf](/files/Soohyeon_Choi_Research_Resume.pdf)**.
 
-You can download my CV as a PDF: **[Soohyeon_CV_2025.pdf](/files/Soohyeon_CV_2025.pdf)**
+My complete and current publication record is available on the [Publications](/publications/) page and on [Google Scholar](https://scholar.google.com/citations?user=xWQGkacAAAAJ&hl=en).

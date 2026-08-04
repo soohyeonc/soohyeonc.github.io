@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Soohyeon Choi"
 title_separator          : "-"
 name                     : &name "Soohyeon Choi"
-description              : &description "Research Scientist, CS"
+description              : &description "Research Scientist in AI and LLM Safety and Security"
 url                      : https://soohyeonc.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "soohyeonc/soohyeonc.github.io"
@@ -24,17 +24,17 @@ author:
   avatar           : "Soohyeon_profile.jpg"
   name             : "Soohyeon Choi"
   pronouns         : # example: "she/her"  
-  bio              : "Research Scientist"
+  bio              : "Research Scientist in AI and LLM Safety and Security"
   location         : "Singapore"
   employer         : "Singapore Management University"
   # uri              : "linkedin.com/in/soohyeon-choi"
-  email            : "soohyeon.choi@ucf.edu" 
+  email            : "shchoi@smu.edu.sg"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=xWQGkacAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-1252-2263"
+  orcid            : "https://orcid.org/0009-0002-1252-2263"
   semantic         : # URL
   pubmed           : #
   researchgate     : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "/soohyeonc"
+  github           : "soohyeonc"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : "/soohyeone/"
   lastfm           : # Username
-  linkedin         : "/soohyeon-choi"
+  linkedin         : "soohyeon-choi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

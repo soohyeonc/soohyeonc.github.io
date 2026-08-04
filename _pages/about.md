@@ -6,12 +6,24 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Soohyeon Choi, a Research Scientist at Singapore Management University.
-I received my Ph.D. in Computer Science from the University of Central Florida in 2025, advised by Prof. David Mohaisen. My research focuses on Machine Learning, AI, and Security, with an extensive background in code authorship attribution, programming language processing, and robustness measurement of machine learning applications. I previously served as a Research Officer at A*STAR Research Entities (I2R) in Singapore.
+I am Soohyeon Choi, a Research Scientist at Singapore Management University. I received my Ph.D. in Computer Science from the University of Central Florida in 2025, advised by Prof. David Mohaisen. My research focuses on AI and LLM safety and security. I study adversarial model behavior, generated-code provenance, jailbreak attacks, code watermarking, and robust evaluation under distribution shift. I previously served as a Research Officer at A*STAR's Institute for Infocomm Research in Singapore.
 
 Research Interests
 ======
-Code Authorship Attribution, Programming Language Processing, Large Language Models, Software Engineering, Machine Learning, AI, Security, and Robustness Measurement of Machine Learning Applications.
+* AI and LLM safety and security
+* Adversarial machine learning and frontier-model evaluation
+* Jailbreaking and model-behavior analysis
+* AI-generated code provenance and coding-agent attribution
+* Code watermarking and robust machine-learning evaluation
+
+
+Current Research
+======
+**Compositional Jailbreaking of Aligned LLMs.** We study how simple jailbreak transformations interact when applied sequentially, including synergistic, destructive, and structurally incompatible compositions. This manuscript is under review. [Preprint](https://arxiv.org/abs/2605.15598)
+
+**CommitTrace.** We study code-only attribution of AI coding agents from repository-local file patches and hunks. The work evaluates prior-method transfer, model robustness, cross-language generalization, and repository-disjoint deployment shifts. This manuscript is under review.
+
+**Multi-Channel Spread-Spectrum Code Watermarking.** We develop a post-hoc, training-free method that embeds a 24-bit provider label through variable-naming and structural channels with explicit recovery assumptions. This manuscript is under review. [Preprint](https://arxiv.org/abs/2607.06009)
 
 
 Education
@@ -29,12 +41,12 @@ Education
 
 Professional Experience
 ======
-* <span style="color:maroon">05/2025 -- Present</span>: Research Scientist, Singapore Management University -- Machine Learning, AI, LLM & Security & Security
+* <span style="color:maroon">05/2025 -- Present</span>: Research Scientist, Singapore Management University -- AI, LLM, and machine-learning security
 
-* <span style="color:maroon">08/2021 -- 05/2025</span>: Research Assistant, University of Central Florida -- Machine Learning, AI, LLM & Security & Security
+* <span style="color:maroon">08/2021 -- 05/2025</span>: Graduate Research Assistant, University of Central Florida -- machine learning, LLMs, and security
 
-* <span style="color:maroon">12/2023 -- 12/2024</span>: Research Officer, A*STAR Research Entities (I2R) -- Machine Learning & Security
+* <span style="color:maroon">12/2023 -- 12/2024</span>: Research Officer, A*STAR Institute for Infocomm Research -- machine learning and security
 
-* <span style="color:maroon">08/2019 -- 05/2021</span>: Research Assistant, South Dakota State University -- Sensor Network & Security
+* <span style="color:maroon">08/2019 -- 12/2020</span>: Graduate Research Assistant, South Dakota State University -- sensor-network security
 
 * <span style="color:maroon">08/2018 -- 05/2019</span>: Teaching Assistant, South Dakota State University -- CSc 300 Data Structures
