@@ -6,19 +6,25 @@ redirect_from:
   - /about.html
 ---
 
-I am Soohyeon Choi, a Research Scientist at Singapore Management University. I received my Ph.D. in Computer Science from the University of Central Florida in 2025, advised by Prof. David Mohaisen. My research focuses on AI and LLM safety and security. I study adversarial model behavior, generated-code provenance, jailbreak attacks, code watermarking, and robust evaluation under distribution shift. I previously served as a Research Officer at A*STAR's Institute for Infocomm Research in Singapore.
+I am Soohyeon Choi, a Research Scientist at Singapore Management University. I received my Ph.D. in Computer Science from the University of Central Florida in 2025, advised by Prof. David Mohaisen. My research asks how advanced language models behave under adversarial and deployment shifts and how AI-generated code can be detected, attributed, and provenance-marked.
+
+I work across compositional jailbreaking, exposure-aware generated-code detection, human and AI-agent code attribution, and post-hoc code watermarking. I build reproducible benchmarks and evaluation pipelines across Python, Java, and C++ using fine-tuned code encoders, zero- and few-shot LLMs, matched controls, robustness testing, and statistical auditing. I previously served as a Research Officer at A*STAR's Institute for Infocomm Research in Singapore.
 
 Research Interests
 ======
 * AI and LLM safety and security
-* Adversarial machine learning and frontier-model evaluation
+* Adversarial evaluation and deployment shifts
 * Jailbreaking and model-behavior analysis
-* AI-generated code provenance and coding-agent attribution
-* Code watermarking and robust machine-learning evaluation
+* Human and AI-agent code attribution and provenance
+* Code watermarking and generated-code detection
 
 
 Current Research
 ======
+**Talking to Themselves: An Exposure-Aware Evaluation of LLM-Generated Code Detection.** We evaluate heuristic and LLM-based generated-code detectors under data exposure, low-effort adversarial edits, and model-level attribution across C++, Java, and Python. This manuscript is under review.
+
+**I Can Find You in Seconds! Leveraging Large Language Models for Code Authorship Attribution.** We develop zero-shot, few-shot, and tournament-style LLM methods for source-code authorship attribution across C++ and Java, including large candidate sets and adversarial transformations. This manuscript is under review. [Preprint](https://arxiv.org/abs/2501.08165)
+
 **Compositional Jailbreaking of Aligned LLMs.** We study how simple jailbreak transformations interact when applied sequentially, including synergistic, destructive, and structurally incompatible compositions. This manuscript is under review. [Preprint](https://arxiv.org/abs/2605.15598)
 
 **CommitTrace.** We study code-only attribution of AI coding agents from repository-local file patches and hunks. The work evaluates prior-method transfer, model robustness, cross-language generalization, and repository-disjoint deployment shifts. This manuscript is under review.
